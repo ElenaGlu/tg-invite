@@ -1,2 +1,4 @@
 /.env
 /users_login.csv
+**/__pycache__/
+.idea/
